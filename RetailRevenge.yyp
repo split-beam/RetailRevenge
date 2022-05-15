@@ -15,6 +15,7 @@
     {"id":{"name":"spr_button3","path":"sprites/spr_button3/spr_button3.yy",},"order":2,},
     {"id":{"name":"obj_button6","path":"objects/obj_button6/obj_button6.yy",},"order":5,},
     {"id":{"name":"spr_button6","path":"sprites/spr_button6/spr_button6.yy",},"order":5,},
+    {"id":{"name":"scr_player_controls","path":"scripts/scr_player_controls/scr_player_controls.yy",},"order":0,},
     {"id":{"name":"obj_button5","path":"objects/obj_button5/obj_button5.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
