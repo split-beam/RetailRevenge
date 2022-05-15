@@ -1,5 +1,17 @@
 {
   "resources": [
+    {"id":{"name":"spr_button2","path":"sprites/spr_button2/spr_button2.yy",},"order":1,},
+    {"id":{"name":"obj_button1","path":"objects/obj_button1/obj_button1.yy",},"order":0,},
+    {"id":{"name":"spr_button1","path":"sprites/spr_button1/spr_button1.yy",},"order":0,},
+    {"id":{"name":"obj_button4","path":"objects/obj_button4/obj_button4.yy",},"order":3,},
+    {"id":{"name":"obj_button2","path":"objects/obj_button2/obj_button2.yy",},"order":1,},
+    {"id":{"name":"obj_button3","path":"objects/obj_button3/obj_button3.yy",},"order":2,},
+    {"id":{"name":"spr_button4","path":"sprites/spr_button4/spr_button4.yy",},"order":3,},
+    {"id":{"name":"spr_button5","path":"sprites/spr_button5/spr_button5.yy",},"order":4,},
+    {"id":{"name":"spr_button3","path":"sprites/spr_button3/spr_button3.yy",},"order":2,},
+    {"id":{"name":"obj_button6","path":"objects/obj_button6/obj_button6.yy",},"order":5,},
+    {"id":{"name":"spr_button6","path":"sprites/spr_button6/spr_button6.yy",},"order":5,},
+    {"id":{"name":"obj_button5","path":"objects/obj_button5/obj_button5.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
