@@ -1,2 +1,5 @@
-/// @desc Set Depth
-depth = -1;
+/// @desc Ini
+
+depth = -1; //Set Depth
+global.swipe_margin=45;
+
